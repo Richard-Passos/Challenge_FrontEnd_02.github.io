@@ -16,7 +16,7 @@ Desafio Frontend Mentor para praticar HTML | CSS
 ## :rocket: Rodando o projeto
 Para rodar o repositório é recomendado acessar:
 ```
-https://richard-passos.github.io/ToDo_List_Challenge/loginPage.html
+https://richard-passos.github.io/Challenge_FrontEnd_02.github.io/
 ```
 
 ## :handshake: Colaboradores
